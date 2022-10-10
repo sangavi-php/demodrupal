@@ -1,0 +1,5 @@
+name: Social Icon Block
+description: This is Social Icon Block module
+core_version_requirement : ^8 || ^9
+type: module
+package: custom
